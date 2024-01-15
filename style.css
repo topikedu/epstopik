@@ -121,7 +121,6 @@ body {
   justify-content: center;
   align-items: center;
   display: grid;
-/*   place-items: center; */
   margin: 0 1rem;
 }
 .content {
