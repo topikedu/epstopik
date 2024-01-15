@@ -118,8 +118,10 @@ body {
 /* Page structure */
 .wrapper {
   min-height: var(--wrapper-height);
+  justify-content: center;
+  align-items: center;
   display: grid;
-  place-items: center;
+/*   place-items: center; */
   margin: 0 1rem;
 }
 .content {
